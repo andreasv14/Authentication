@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BBC0AD49-BD78-4ADA-952A-958AD715E56D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E54FCAA1-6130-4DE8-97DE-101A9D75ACCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication.SDK", "src\Authentication.SDK\Authentication.SDK.csproj", "{E8F929F6-E69D-40F6-B6CC-CD40410D2BBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution-items", "solution-items", "{109F4282-FD81-427B-9DBD-F0AD21D72037}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8F929F6-E69D-40F6-B6CC-CD40410D2BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F929F6-E69D-40F6-B6CC-CD40410D2BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F929F6-E69D-40F6-B6CC-CD40410D2BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F929F6-E69D-40F6-B6CC-CD40410D2BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E8F929F6-E69D-40F6-B6CC-CD40410D2BBD} = {BBC0AD49-BD78-4ADA-952A-958AD715E56D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1D44B4-D3CC-4311-8CAB-A095013A72CC}
+	EndGlobalSection
+EndGlobal
