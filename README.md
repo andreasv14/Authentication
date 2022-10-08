@@ -1,5 +1,5 @@
 # Introduction
----
+
 Authentication SDK
 
 ## Nuget packages
@@ -17,7 +17,6 @@ Add appsettings.json configurations
 ```
 
 # Usage
----
+
 
 # References
----
