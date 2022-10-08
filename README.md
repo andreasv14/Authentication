@@ -20,3 +20,4 @@ Add appsettings.json configurations
 
 
 # References
+[1] https://www.youtube.com/watch?v=fhM0V2N1GpY&list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k&ab_channel=AmichaiMantinband (Part 1,2)
