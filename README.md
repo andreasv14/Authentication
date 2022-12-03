@@ -1,6 +1,6 @@
 # Introduction
 
-Authentication SDK
+Authentication
 
 ## Nuget packages
 
